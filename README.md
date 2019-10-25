@@ -1,3 +1,8 @@
+#集成厂商推送
+修改`plugin.xml`#394行附近参数为自己应用后台的信息即可。
+
+具体可参见`src/android/third-push`目录下的`xx厂商集成指南.md`
+
 # JPush PhoneGap / Cordova Plugin
 
 [![Build Status](https://travis-ci.org/jpush/jpush-phonegap-plugin.svg?branch=master)](https://travis-ci.org/jpush/jpush-phonegap-plugin)
